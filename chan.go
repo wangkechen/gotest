@@ -26,8 +26,8 @@ func read()  {
 	}
 }
 
-func mainaz()  {
+/*func main()  {
 	go write()
 	read()
-}
+}*/
 //输出结果 read time out
