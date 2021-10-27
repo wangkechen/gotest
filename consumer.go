@@ -17,7 +17,7 @@ var (
 	//groupId = "csdn_test_1"
 )
 
-func init() {
+func init11() {
 	var err error
 	config := cluster.NewConfig()
 	config.Consumer.Return.Errors = true
